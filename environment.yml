@@ -1,0 +1,14 @@
+name: example-environment
+channels:   渠道:
+  - conda-forge
+dependencies:   依赖关系:
+  - python=3.11   ——python = 3.11
+  - numpy   ——numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill   ——莳萝
+  - pandas   ——大熊猫
+  - partd   ——partd
+  - bokeh   ——散景
+  - dask   ——dask
